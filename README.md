@@ -75,9 +75,19 @@
 **效果展示**：文档扭曲校正效果示例如下：
 
 校正前
+
+![dewarp3.jpg](imgs/dewarp3.png)
+
+校正后
+
+![dewarp4.jpg](imgs/dewarp4.png)
+
+校正前
+
 ![dewarp1.jpg](imgs/dewarp1.jpg)
 
 校正后
+
 ![dewarp2.jpg](imgs/dewarp2.jpg)
 
 经过前期调研，以论文DocUNet为基础，在问题定义、数据集构建、预测稳定性等角度进行了多处优化，校正效果得到明显提升。具体地:
